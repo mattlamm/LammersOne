@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LammersOne.Utils", "LammersOne.Utils\LammersOne.Utils.csproj", "{6F40CFA8-DE7E-4901-A740-8C341BCC7F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LammersOne.CommonEnums", "LammersOne.CommonEnums\LammersOne.CommonEnums.csproj", "{9ADA38EF-0D73-4321-B012-DBF0EA39C48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F40CFA8-DE7E-4901-A740-8C341BCC7F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F40CFA8-DE7E-4901-A740-8C341BCC7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F40CFA8-DE7E-4901-A740-8C341BCC7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F40CFA8-DE7E-4901-A740-8C341BCC7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ADA38EF-0D73-4321-B012-DBF0EA39C48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADA38EF-0D73-4321-B012-DBF0EA39C48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADA38EF-0D73-4321-B012-DBF0EA39C48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADA38EF-0D73-4321-B012-DBF0EA39C48F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
