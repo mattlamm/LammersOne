@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace LammersOne.Utils.CommonEnums
+namespace LammersOne.CommonEnums
 {
     //-------------------------------------------------------------------------------------------------------------------------
 

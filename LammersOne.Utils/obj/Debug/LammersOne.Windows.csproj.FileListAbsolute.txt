@@ -1,0 +1,4 @@
+D:\Development\GitHub\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Windows.dll
+D:\Development\GitHub\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Windows.pdb
+D:\Development\GitHub\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Windows.dll
+D:\Development\GitHub\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Windows.pdb

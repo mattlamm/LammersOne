@@ -1,0 +1,5 @@
+D:\Development\GitHub\LammersOne\LammersOne.CommonEnums\bin\Debug\LammersOne.CommonEnums.dll
+D:\Development\GitHub\LammersOne\LammersOne.CommonEnums\bin\Debug\LammersOne.CommonEnums.pdb
+D:\Development\GitHub\LammersOne\LammersOne.CommonEnums\obj\Debug\LammersOne.CommonEnums.dll
+D:\Development\GitHub\LammersOne\LammersOne.CommonEnums\obj\Debug\LammersOne.CommonEnums.pdb
+D:\Development\GitHub\LammersOne\LammersOne.CommonEnums\obj\Debug\LammersOne.CommonEnums.csprojResolveAssemblyReference.cache

@@ -5,9 +5,9 @@ using System.Text;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace LammersOne.Utils
+namespace LammersOne.Windows
 {
-    public class WindowsSystem
+    public class OperatingSystem
     {
         //-------------------------------------------------------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ namespace LammersOne.Utils
         /// <returns></returns>
         public static DateTime GetSystemDateTime()
         {
-            SystemTime currTime = new SystemTime();
+            var currTime = new SystemTime();
             Win32GetSystemTime(ref currTime);
 
             return new DateTime(currTime.Year, currTime.Month, currTime.Day, currTime.Hour, currTime.Minute, currTime.Second);
@@ -219,7 +219,7 @@ namespace LammersOne.Utils
         /// <param name="dateTime"></param>
         public static void SetLocalDateTime(DateTime dateTime)
         {
-            SystemTime sysTime = new SystemTime();
+            var sysTime = new SystemTime();
             sysTime.FromDateTime(dateTime);
             SetLocalTime(ref sysTime);
         }
@@ -230,7 +230,7 @@ namespace LammersOne.Utils
         /// <param name="dateTime">The DateTime to set.</param>
         public static void SetSystemDateTime(DateTime dateTime)
         {
-            SystemTime updatedTime = new SystemTime();
+            var updatedTime = new SystemTime();
             updatedTime.Year = (ushort)dateTime.Year;
             updatedTime.Month = (ushort)dateTime.Month;
             updatedTime.Day = (ushort)dateTime.Day;

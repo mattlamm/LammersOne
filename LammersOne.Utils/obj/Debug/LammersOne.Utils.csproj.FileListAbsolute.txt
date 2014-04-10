@@ -1,0 +1,9 @@
+D:\Development\GitHub\LammersOne\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Utils.dll
+D:\Development\GitHub\LammersOne\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Utils.pdb
+D:\Development\GitHub\LammersOne\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Utils.dll
+D:\Development\GitHub\LammersOne\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Utils.pdb
+D:\Development\GitHub\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Utils.dll
+D:\Development\GitHub\LammersOne\LammersOne.Utils\bin\Debug\LammersOne.Utils.pdb
+D:\Development\GitHub\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Utils.dll
+D:\Development\GitHub\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Utils.pdb
+D:\Development\GitHub\LammersOne\LammersOne.Utils\obj\Debug\LammersOne.Utils.csprojResolveAssemblyReference.cache

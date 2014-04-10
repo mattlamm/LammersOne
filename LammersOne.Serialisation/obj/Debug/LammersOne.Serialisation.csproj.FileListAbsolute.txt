@@ -1,0 +1,4 @@
+D:\Development\GitHub\LammersOne\LammersOne.Serialisation\bin\Debug\LammersOne.Serialisation.dll
+D:\Development\GitHub\LammersOne\LammersOne.Serialisation\bin\Debug\LammersOne.Serialisation.pdb
+D:\Development\GitHub\LammersOne\LammersOne.Serialisation\obj\Debug\LammersOne.Serialisation.dll
+D:\Development\GitHub\LammersOne\LammersOne.Serialisation\obj\Debug\LammersOne.Serialisation.pdb

@@ -5,7 +5,7 @@ using System.Text;
 using System.Reflection;
 using System.Diagnostics;
 
-namespace LammersOne.Utils
+namespace LammersOne.Windows
 {
     public class AssemblyHelper
     {
@@ -15,8 +15,8 @@ namespace LammersOne.Utils
 
         public static string GetEntryAssemblyProductVersion()
         {
-            Assembly assembly = Assembly.GetEntryAssembly();
-            FileVersionInfo fvi = FileVersionInfo.GetVersionInfo(assembly.Location);
+            var assembly = Assembly.GetEntryAssembly();
+            var fvi = FileVersionInfo.GetVersionInfo(assembly.Location);
             return fvi.ProductVersion;
         }
 
